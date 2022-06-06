@@ -41,6 +41,8 @@ const elencoTeam = [
     },
 ]
 
+console.table(elencoTeam)
+
 
 
 //Milestone 2:
